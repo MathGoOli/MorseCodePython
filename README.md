@@ -17,7 +17,7 @@
 			</p>
 			<p id="c0d45519-8258-4e70-b088-acac3fd8372e" class="">Morse code is a method used by telecommunications to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.
 				this were used in an invention called telegraph.</p>
-			<figure id="3872fcfd-9b6c-42b3-a62d-d33179f75dca" class="image"><a href="C:\Users\mathe\Desktop\Morse Code in Python 378b0031d7dd43f89dcfbc2f3ab58939.html"><img style="width:720px"
+			<figure id="3872fcfd-9b6c-42b3-a62d-d33179f75dca" class="image"><a href="https://en.wikipedia.org/wiki/Morse_code"><img style="width:720px"
 						src="Morse%20Code%20in%20Python%20378b0031d7dd43f89dcfbc2f3ab58939/Untitled.webp" /></a></figure>
 			<h2 id="7071a2de-8796-490a-b7fe-c2eafd2cd923" class="">what should I do:</h2>
 			<p id="10333f41-44e1-4107-a69d-861164e5b1e1" class="">things that I consider:</p>
